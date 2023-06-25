@@ -80,4 +80,4 @@
 ; if given a pets struct and cat, return the cat
 ; if fish, then recurse over list until a match
 (get-pets lop "cat")
-(get-pets lop "cat")
+(get-pets lop "fish")
